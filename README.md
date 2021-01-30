@@ -1,6 +1,6 @@
 # Xylophone
 
-A new Flutter application.
+A new Flutter application that plays Audio on every tile you select. 
 
 ## Getting Started
 
